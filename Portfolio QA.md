@@ -5,9 +5,8 @@
 - [Tools](#tools)
 - [Courses](#courses)
 - [Contoh karya kerja](#contoh-karya-kerja)
-  * [Test cases and work in Google Docs and Tester Work](#test-cases-and-work-in-testrail)
-  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
-
+  * [Test cases dan karya kerja di Tester Work (Google Docs)](#test-cases-dan-karya-kerja)
+ 
 ## Tentang Saya
 
 Saya adalah lulusan baru (fresh graduate) jurusan Konservasi Sumber Daya Hutan Fakultas Kehutanan Universitas Gadjah Mada dengan masa studi selama 4 setengah tahun. Saya memiliki fokus studi terkait dalam konservasi studi satwa liar terutama pada famili kucing (Feline).
@@ -61,7 +60,7 @@ __Mini Bootcamp Quality Assurance Habiskerja.com (2022)__
 *online course by Habiskerja.com*  
 Course yang difokuskan dalam pengenalan quality assurance.   
 
-## COntoh Karya Kerja
+## Contoh Karya Kerja
 
 ### Test cases dan karya kerja di Tester Work (Google Docs)
 Contoh karya kerja saya terdapat pada Google Drive berikut (https://drive.google.com/drive/folders/1F0173L-0gNmPDSCLvhMZXBtGSHAn6D28?usp=drive_link)
