@@ -1,5 +1,5 @@
 # Portfolio
-- [About me](#about-me)
+- [Tentang Saya](#tentang-saya)
 - [CV](#cv)
 - [Skills](#skills)
 - [Tools](#tools)
@@ -7,11 +7,8 @@
 - [Examples of my work](#examples-of-my-work)
   * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
-  * [Mindmaps and diagrams](#mindmaps-and-diagrams)
-  * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
-- [Books I have read](#books-i-have-read)
 
-## About me
+## Tentang Saya
 
 I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as a research chemist. And on the other, due to my personality, I love to communicate with people and solve problems.
 
