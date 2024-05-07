@@ -10,7 +10,7 @@
 
 ## Tentang Saya
 
-Saya adalah lulusan baru (fresh graduate) jurusan Konservasi Sumber Daya Hutan Fakultas Kehutanan Universitas Gadjah Mada selama 4 setengah tahun. Saya memiliki fokus studi terkait dalam konservasi studi satwa liar terutama pada famili kucing (Feline).
+Saya adalah lulusan baru (fresh graduate) jurusan Konservasi Sumber Daya Hutan Fakultas Kehutanan Universitas Gadjah Mada dengan masa studi selama 4 setengah tahun. Saya memiliki fokus studi terkait dalam konservasi studi satwa liar terutama pada famili kucing (Feline).
 
 Saya adalah orang yang terorganisir, teratur, dan fokus dalam detail karena latar belakang saya dalam pendidikan Kehutanan. Di sisi lain, saya adalah orang yang dapat bekerja dengan sendirian maupun dengan berkelompok orang lain.
 
