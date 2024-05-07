@@ -4,22 +4,20 @@
 - [Skills](#skills)
 - [Tools](#tools)
 - [Courses](#courses)
-- [Examples of my work](#examples-of-my-work)
-  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
+- [Contoh karya kerja](#contoh-karya-kerja)
+  * [Test cases and work in Google Docs and Tester Work](#test-cases-and-work-in-testrail)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
 
 ## Tentang Saya
 
-I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as a research chemist. And on the other, due to my personality, I love to communicate with people and solve problems.
+Saya adalah lulusan baru (fresh graduate) jurusan Konservasi Sumber Daya Hutan Fakultas Kehutanan Universitas Gadjah Mada selama 4 setengah tahun. Saya memiliki fokus studi terkait dalam konservasi studi satwa liar terutama pada famili kucing (Feline).
 
-I got my Master's Degree from the University of Eastern Finland and have been a PhD fellow at the University of Jyväskylä for 3 years. My research field was computational physical chemistry, which involved modelling of chemical reactions through massively-parallel computing.
+Saya adalah orang yang terorganisir, teratur, dan fokus dalam detail karena latar belakang saya dalam pendidikan Kehutanan. Di sisi lain, saya adalah orang yang dapat bekerja dengan sendirian maupun dengan berkelompok orang lain.
 
-Now, I wish to exploit my research and analytical skills in software testing. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
-
-I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
+Sekarang, saya memfokuskan dalam bidang Quality Assurance Tester yang memang menyimpang dari latar belakang pendidikan saya. Saat ini, saya memfokuskan dalam freelance saya dalam bidang Quality Assurance Tester pada Tester Work, diiringi dengan mengikuti online course Quality Assurance
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/11FJNgtF8fAgEQIFJ0aA9S9O8_6_7Jgp-/view?usp=sharing).
+CV saya dapat diakses melalui Google Drive berikut (https://drive.google.com/file/d/1KcJS_phZgK2gD56bsNF3EIKarbjICp7d/view?usp=drive_link).
 
 ## Skills
 
