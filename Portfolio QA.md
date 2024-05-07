@@ -21,61 +21,31 @@ CV saya dapat diakses melalui Google Drive berikut (https://drive.google.com/fil
 
 ## Skills
 
-You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
+Anda bisa melihat contoh penerapan skill saya pada poin [Contoh karya kerja](#contoh-karya-kerja)
 
 __Manual testing__
-  * can perform manual functional and usability testing of web applications
-  * gained hands-on experience by testing applications created for educational purposes
-
-__Test analysis & design__
-  * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
-  * can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
-
-__API testing__
-  * know the difference between SOAP and REST APIs
-  * gained experience through manual testing of APIs created for educational purposes
-  * know how to manipulate requests and create test cases using the SoapUI tool
+  * dapat melakukan functional testing dan usability testing pada web, aplikasi, software, dan game secara manual
 
 __Exploratory testing__
-  * capable of using Whittaker’s test tours and creating cheat-lists for testing web applications
+  * dapat melakukan exploratory testing selama atau di luar test cases yang dilakukan guna untuk menemukan bug atau defect baru yang seharusnya terlewat jika tester mengikuti alur test scenario yang telah ditentukan sebelumnya dan untuk untuk verifikasi apakah software sudah memenuhi persyaratan.
 
 __Test documentation__
-  * can create test cases and checklists and know how and in which situations to use them effectively
-  * able to prepare comprehensive bug reports and provide detailed session reports
-
-__SQL databases__
-  * can write complex requests using subqueries
-  * familiar with the use of aliases and wildcards
-  * know the difference between joins and unions and can use them in queries
-
-__Python fundamentals__
-  * can write simple functions and algorithms
-  * know when to use for and while
-  * able to comprehend easy codes
-
+  * dapat membuat test cases dan checklists serta mengetahui bagaimana menggunakannya secara efektif
+  * mampu menyiapkan bug reports yang komprehensif dan memberikan report yang terperinci
+    
 ## Tools
 
-__TestRail__
-  * know how to create test cases and test suits
-  * able to run created test cases
-  * know how to use dashboards and statistics
-
-__Jira__
-  * know how to create bug reports
-  * able to create projects and track their progress
-
-__SoapUI__
-
-__Browser developer tools__
-
-__VirtualBox__
-  * able to set up and operate virtual machines
-
-__Trello and Notion__
-  * know how to use Kanban boards and track project progress
-
-__Mind maps & diagrams__
-  * know how to design beautifully simple mind maps
+__Google Docs__
+  * dapat membuat test cases
+  * dapat menjalankan dan mengetahui test cases
+    
+__Qase.io__
+  * dapat membuat test cases
+  * dapat menjalankan dan mengetahui test cases\
+  * dapat membuat bug reports
+    
+__Notion__
+  * dapat membuat dan mengetahui progress proyek yang dijalankan
 
 ## Courses
 
