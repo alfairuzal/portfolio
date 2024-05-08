@@ -5,7 +5,6 @@
 - [Tools](#tools)
 - [Courses](#courses)
 - [Contoh karya kerja](#contoh-karya-kerja)
-  * [Test cases dan karya kerja di Tester Work (Google Docs)](#test-cases-dan-karya-kerja)
  
 ## Tentang Saya
 
