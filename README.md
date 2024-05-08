@@ -64,3 +64,12 @@ Course yang difokuskan dalam pengenalan quality assurance.
 
 ### Test cases dan karya kerja di Tester Work (Google Docs)
 Contoh karya kerja saya terdapat pada Google Drive berikut (https://drive.google.com/drive/folders/1F0173L-0gNmPDSCLvhMZXBtGSHAn6D28?usp=drive_link)
+
+### Bug reports di Testerwork
+Performa Bug Reporting selama saya bekerja di Tester Work (https://drive.google.com/file/d/1Xo5CSj9BgSimUVEarzNK0CwGOrkjTNcU/view?usp=drive_link)
+- Sky Castle Studio Hero Forge [SKY-162] (https://tracker.testerwork.com/app/projects/vtVE0O23L6qG2FCa8BRJoQ==)
+- LOBSTR [STLR-25] (https://testers.testerwork.com/tester-account/exploratory-tests/1_GEowMk198nUk1WxwM6gg==?token=)
+- Facebook Weblite Android [FBM-2431] (https://tracker.testerwork.com/app/projects/3Qaex518hDw3TKvbt8fuMw==)
+- Facebook Web Browser Desktop [FBM-2426] (https://tracker.testerwork.com/app/projects/-Dcti0IMlUenCbttrKUXkg==)
+- Facebook Android [FBM-2425] (https://tracker.testerwork.com/app/projects/GK2A0uOVGD7Jccyqvby6cA==)
+- Luno Desktop Browser [LUNO-29] (https://tracker.testerwork.com/app/projects/ZZK8TxveMRx0c0X7aqyJKw==) with screenshoot (https://drive.google.com/file/d/1uU1_c_Cy2EOeHc-UVgowY_fLh8jcKPof/view?usp=drive_link , https://drive.google.com/file/d/1EwYI5RHlgxw3QG0JTZmBRnBtlr0oxf6V/view?usp=drive_link) 
