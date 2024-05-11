@@ -1,71 +1,71 @@
 # Portfolio
-- [Tentang Saya](#tentang-saya)
+- [About Me](#about-me)
 - [CV](#cv)
 - [Skills](#skills)
 - [Tools](#tools)
 - [Courses](#courses)
-- [Contoh karya kerja](#contoh-karya-kerja)
+- [Examples of My Work](#examples-of-my-work)
  
-## Tentang Saya
+## About Me
 
-Saya adalah lulusan baru (fresh graduate) jurusan Konservasi Sumber Daya Hutan Fakultas Kehutanan Universitas Gadjah Mada dengan masa studi selama 4 setengah tahun. Saya memiliki fokus studi terkait dalam konservasi studi satwa liar terutama pada famili kucing (Feline).
+I am a new graduate majoring in Forest Resources Conservation, at the Faculty of Forestry, Gadjah Mada University with a study period of 4 and a half years. I have a study focus related to wildlife conservation studies, especially on the cat family (Feline).
 
-Saya adalah orang yang terorganisir, teratur, dan fokus dalam detail karena latar belakang saya dalam pendidikan Kehutanan. Di sisi lain, saya adalah orang yang dapat bekerja dengan sendirian maupun dengan berkelompok orang lain.
+I am an organized, orderly, and detail-focused person due to my background in Forestry education. On the other hand, I am a person who can work alone or with a group of other people.
 
-Sekarang, saya memfokuskan dalam bidang Quality Assurance Tester yang memang menyimpang dari latar belakang pendidikan saya. Saat ini, saya memfokuskan dalam freelance saya dalam bidang Quality Assurance Tester pada Tester Work, diiringi dengan mengikuti online course Quality Assurance
+Currently, I am focusing on the field of Quality Assurance Tester, which is different from my educational background. Currently, I am focusing on my freelance work in the field of Quality Assurance Tester at Tester Work, followed by taking online Quality Assurance courses
 
 ## CV
-CV saya dapat diakses melalui Google Drive berikut (https://drive.google.com/file/d/1KcJS_phZgK2gD56bsNF3EIKarbjICp7d/view?usp=drive_link).
+My CV can be accessed via the following Google Drive (https://drive.google.com/file/d/1KcJS_phZgK2gD56bsNF3EIKarbjICp7d/view?usp=drive_link).
 
 ## Skills
 
-Anda bisa melihat contoh penerapan skill saya pada poin [Contoh karya kerja](#contoh-karya-kerja)
+You can see an example of applying my skills in [Contoh karya kerja](#contoh-karya-kerja) point. 
 
 __Manual testing__
-  * dapat melakukan functional testing dan usability testing pada web, aplikasi, software, dan game secara manual
-
+  * can perform manual functional testing and usability testing on the web, applications, software, and games.
+    
 __Exploratory testing__
-  * dapat melakukan exploratory testing selama atau di luar test cases yang dilakukan guna untuk menemukan bug atau defect baru yang seharusnya terlewat jika tester mengikuti alur test scenario yang telah ditentukan sebelumnya dan untuk untuk verifikasi apakah software sudah memenuhi persyaratan.
+  * can perform exploratory testing during or outside the test cases carried out to find new bugs or defects that would have been missed if the tester followed the predetermined test scenario flow and to verify whether the software meets the requirements.
 
 __Test documentation__
-  * dapat membuat test cases dan checklists serta mengetahui bagaimana menggunakannya secara efektif
-  * mampu menyiapkan bug reports yang komprehensif dan memberikan report yang terperinci
+  * can create test cases and checklists and know how and in which situations to use them effectively
+  * able to prepare comprehensive bug reports and provide detailed session reports
     
 ## Tools
 
 __Google Docs__
-  * dapat membuat test cases
-  * dapat menjalankan dan mengetahui test cases
+  * know how to create test cases
+  * able to run created test cases
     
 __Qase.io__
-  * dapat membuat test cases
-  * dapat menjalankan dan mengetahui test cases\
-  * dapat membuat bug reports
+  * know how to create test cases
+  * able to run created test cases
+  * know how to create bug reports
     
 __Notion__
-  * dapat membuat dan mengetahui progress proyek yang dijalankan
+  * can make and know the progress of the project being carried out
 
 ## Courses
 
 __FSF UGM Mata Kuliah Society and Creative Industry - Kelas AGATE (2021)__  
 *online courses by Future Skills Indonesia UGM*  
-Course yang difokuskan dalam pengembangan game secara umum.  
+Course focused on game development in general.  
 
 __Quality Assurance Course DILo Game Academy (2021)__  
 *online course by DILo Game Academy*  
-Course yang difokuskan dalam quality assurance game.   
+Course focused on game quality assurance.   
 
 __Mini Bootcamp Quality Assurance Habiskerja.com (2022)__  
 *online course by Habiskerja.com*  
-Course yang difokuskan dalam pengenalan quality assurance.   
+Course focused on introducing quality assurance.   
 
-## Contoh Karya Kerja
+## Examples of My Work
 
-### Test cases dan karya kerja di Tester Work (Google Docs)
-Contoh karya kerja saya terdapat pada Google Drive berikut (https://drive.google.com/drive/folders/1F0173L-0gNmPDSCLvhMZXBtGSHAn6D28?usp=drive_link)
+### Test cases and work in Tester Work (Google Docs)
+Examples of my work are in the following Google Drive (https://drive.google.com/drive/folders/1F0173L-0gNmPDSCLvhMZXBtGSHAn6D28?usp=drive_link)
 
-### Bug reports di Testerwork
-Performa Bug Reporting selama saya bekerja di Tester Work (https://drive.google.com/file/d/1Xo5CSj9BgSimUVEarzNK0CwGOrkjTNcU/view?usp=drive_link)
+### Bug reports in Testerwork
+Bug Reporting performance while I worked at Tester Work (https://drive.google.com/file/d/1Xo5CSj9BgSimUVEarzNK0CwGOrkjTNcU/view?usp=drive_link)
 - Sky Castle Studio Hero Forge [SKY-162] (https://tracker.testerwork.com/app/projects/vtVE0O23L6qG2FCa8BRJoQ==)
 - LOBSTR [STLR-25] (https://testers.testerwork.com/tester-account/exploratory-tests/1_GEowMk198nUk1WxwM6gg==?token=)
 - Facebook Weblite Android [FBM-2431] (https://tracker.testerwork.com/app/projects/3Qaex518hDw3TKvbt8fuMw==)
