@@ -8,7 +8,7 @@
  
 ## About Me
 
-I am a new graduate majoring in Forest Resources Conservation, at the Faculty of Forestry, Gadjah Mada University with a study period of 4 and a half years. I have a study focus related to wildlife conservation studies, especially on the cat family (Feline).
+I am a fresh graduate majoring in Forest Resources Conservation, at the Faculty of Forestry, Gadjah Mada University with a study period of 4 and a half years. I have a study focus related to wildlife conservation studies, especially on the cat family (Feline).
 
 I am an organized, orderly, and detail-focused person due to my background in Forestry education. On the other hand, I am a person who can work alone or with a group of other people.
 
