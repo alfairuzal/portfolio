@@ -12,7 +12,7 @@ Saya adalah lulusan baru (fresh graduate) jurusan Konservasi Sumber Daya Hutan F
 
 Saya adalah orang yang terorganisir, teratur, dan fokus dalam detail karena latar belakang saya dalam pendidikan Kehutanan. Di sisi lain, saya adalah orang yang dapat bekerja dengan sendirian maupun dengan berkelompok orang lain.
 
-Sekarang, saya memfokuskan dalam bidang Quality Assurance Tester yang memang menyimpang dari latar belakang pendidikan saya. Saat ini, saya memfokuskan dalam freelance saya dalam bidang Quality Assurance Tester pada Tester Work, diiringi dengan mengikuti online course Quality Assurance
+Sekarang, saya memfokuskan dalam bidang Quality Assurance Tester yang memang betolak belakang dari latar belakang pendidikan saya. Saat ini, saya memfokuskan dalam freelance saya dalam bidang Quality Assurance Tester pada Tester Work, diiringi dengan mengikuti online course Quality Assurance
 
 ## CV
 CV saya dapat diakses melalui Google Drive berikut (https://drive.google.com/file/d/1KcJS_phZgK2gD56bsNF3EIKarbjICp7d/view?usp=drive_link).
