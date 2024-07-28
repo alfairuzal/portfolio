@@ -63,10 +63,10 @@ Course yang difokuskan dalam pengenalan quality assurance.
 
 ## Contoh Karya Kerja
 
-### Test cases dan karya kerja di Tester Work (Google Docs)
+### Test cases dan karya kerja di Tester Work
 Contoh karya kerja saya terdapat pada Google Drive berikut (https://drive.google.com/drive/folders/1F0173L-0gNmPDSCLvhMZXBtGSHAn6D28?usp=drive_link)
 
-### Test cases dan karya kerja di Tester Work (Google Docs)
+### Test cases dan karya kerja di Tester Work
 Berikut adalah beberapa dari test case yang saya kerjakan selama di Fair Indonesia pada Google Drive berikut (https://drive.google.com/drive/folders/13dvQPcmLKydDSIRf6uESG0ntshR_VyHM?usp=drive_link)
 
 ### Bug reports di Fair Indonesia
