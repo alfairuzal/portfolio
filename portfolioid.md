@@ -28,7 +28,7 @@ __Exploratory testing__
   * dapat melakukan exploratory testing selama atau di luar test cases yang dilakukan guna untuk menemukan bug atau defect baru yang seharusnya terlewat jika tester mengikuti alur test scenario yang telah ditentukan sebelumnya dan untuk untuk verifikasi apakah software sudah memenuhi persyaratan.
 
 __Test documentation__
-  * dapat membuat test cases dan checklists serta mengetahui bagaimana menggunakannya secara efektif
+  * dapat membuat, melaksanakan, dan menganalisis test cases dan checklists serta mengetahui bagaimana menggunakannya secara efektif
   * mampu menyiapkan bug reports yang komprehensif dan memberikan report yang terperinci
     
 ## Tools
@@ -39,11 +39,12 @@ __Google Docs__
     
 __Qase.io__
   * dapat membuat test cases
-  * dapat menjalankan dan mengetahui test cases\
+  * dapat menjalankan dan mengetahui test cases
   * dapat membuat bug reports
     
 __Notion__
   * dapat membuat dan mengetahui progress proyek yang dijalankan
+  * dapat membuat bug reports
 
 ## Courses
 
@@ -63,6 +64,12 @@ Course yang difokuskan dalam pengenalan quality assurance.
 
 ### Test cases dan karya kerja di Tester Work (Google Docs)
 Contoh karya kerja saya terdapat pada Google Drive berikut (https://drive.google.com/drive/folders/1F0173L-0gNmPDSCLvhMZXBtGSHAn6D28?usp=drive_link)
+
+### Test cases dan karya kerja di Tester Work (Google Docs)
+Berikut adalah beberapa dari test case yang saya kerjakan selama di Fair Indonesia pada Google Drive berikut (https://drive.google.com/drive/folders/13dvQPcmLKydDSIRf6uESG0ntshR_VyHM?usp=drive_link)
+
+### Bug reports di Fair Indonesia
+Performa Bug Reporting selama saya bekerja di Tester Work (https://drive.google.com/drive/folders/1C0278TXbLGf2WeywfNpEQ2cNoMzgvm0v?usp=sharing)
 
 ### Bug reports di Testerwork
 Performa Bug Reporting selama saya bekerja di Tester Work (https://drive.google.com/file/d/1Xo5CSj9BgSimUVEarzNK0CwGOrkjTNcU/view?usp=drive_link)
