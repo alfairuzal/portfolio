@@ -36,6 +36,7 @@ __Test documentation__
 __Google Docs__
   * know how to create test cases
   * able to run created test cases
+  * know how to create bug reports
     
 __Qase.io__
   * know how to create test cases
@@ -44,6 +45,7 @@ __Qase.io__
     
 __Notion__
   * can make and know the progress of the project being carried out
+  * know how to create bug reports
 
 ## Courses
 
@@ -61,8 +63,14 @@ Course focused on introducing quality assurance.
 
 ## Examples of My Work
 
-### Test cases and work in Tester Work (Google Docs)
+### Test cases and work in Tester Work
 Examples of my work are in the following Google Drive (https://drive.google.com/drive/folders/1F0173L-0gNmPDSCLvhMZXBtGSHAn6D28?usp=drive_link)
+
+### Test cases and work in Fair Indonesia
+Examples of my work are in the following Google Drive (https://drive.google.com/drive/folders/13dvQPcmLKydDSIRf6uESG0ntshR_VyHM?usp=drive_link)
+
+### Bug reports in Fair Indonesia
+Bug Reporting performance while I worked at Fair Indonesia (https://drive.google.com/drive/folders/1C0278TXbLGf2WeywfNpEQ2cNoMzgvm0v?usp=sharing)
 
 ### Bug reports in Testerwork
 Bug Reporting performance while I worked at Tester Work (https://drive.google.com/file/d/1Xo5CSj9BgSimUVEarzNK0CwGOrkjTNcU/view?usp=drive_link)
