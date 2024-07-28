@@ -36,6 +36,7 @@ __Test documentation__
 __Google Docs__
   * dapat membuat test cases
   * dapat menjalankan dan mengetahui test cases
+  * dapat membuat bug reports
     
 __Qase.io__
   * dapat membuat test cases
