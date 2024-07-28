@@ -19,7 +19,7 @@ My CV can be accessed via the following Google Drive (https://drive.google.com/f
 
 ## Skills
 
-You can see an example of applying my skills in [Contoh karya kerja](#examples-of-my-work) point. 
+You can see an example of applying my skills in [Contoh karya kerja](##examples-of-my-work) point. 
 
 __Manual testing__
   * can perform manual functional testing and usability testing on the web, applications, software, and games.
